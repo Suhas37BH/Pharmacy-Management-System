@@ -1,6 +1,6 @@
 # Pharmacy Management System
 
-### Mini Project for Database Management Systems (18CSC303J)
+### Project on Skill Development Program
 
 Members:
 - Suhas B H (4NI22CS220)
