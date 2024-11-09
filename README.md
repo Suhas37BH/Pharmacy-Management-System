@@ -3,9 +3,12 @@
 ### Mini Project for Database Management Systems (18CSC303J)
 
 Members:
-- Aditi Mittal (RA1911003010226)
-- Anweasha Saha (RA1911003010235)
-- Vijay Ravichander (RA1911003010239)
+- Suhas B H (4NI22CS220)
+- Suhas B M (4NI22CS221)
+- Nischith S (4NI22CS259)
+- Rohan P N (4NI22CS257)
+- Vishwas H T (4NI22CS248)
+- Thanman Mahesh (4NI22CS236)
 
 ## PROBLEM STATEMENT
 - In this era of growing demands of pharmaceutical and chemical products for health and medicine; every medical store, be it a small of medium sized businesses are running rampant towards efficient store management and rapid revenue computation. 
@@ -16,12 +19,3 @@ Members:
 - The aim of this project is to develop a software for the effective management of the database of a pharmaceutical store.
 - It would improve the accuracy and enhance safety and efficiency in the pharmaceutical store.
 - This system will help the pharmacist to maintain the records of the medicines, handle user and admin details, check and renew the validity of the medicines and orders placed by the customer.
-
-
-## ER DIAGRAM
-<img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-4.jpeg" width=700><br>
-
-## OUTPUT
-<img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-1.jpeg" width=700><br>
-<br><img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-2.jpeg" width=700><br>
-<br><img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-3.jpeg" width=700><br>
